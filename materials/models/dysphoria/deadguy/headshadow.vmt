@@ -1,0 +1,27 @@
+"vertexlitgeneric" {
+    "$basetexture"                    "cable/black"
+
+    "$FleshInteriorEnabled"           "1"
+    "$FleshDebugForceFleshOn"         "1"
+    "$FleshInteriorTexture"           "cable/black"
+    "$FleshInteriorNoiseTexture"      "engine/noise-blur-256x256"
+
+    "$FleshGlobalOpacity"             "10"
+    "$FleshScrollSpeed"               "1"
+
+    "$FleshBorderWidth"               "8"
+    "$FleshBorderNoiseScale"          "0.3"
+    "$FleshBordertint"                "[0 0 0]"
+    "$FleshBorderSoftness"            "1"
+    "$FleshBorderTexture1D"           "models/Alyx/alyx_flesh_border"
+
+    "$FleshCubeTexture"               "env_cubemap"
+    "$FleshGlossBrightness"           "0"
+
+    "$FleshSubsurfaceTexture"         "Models/Debug/debugwhite"
+    "$FleshNormalTexture"             "Models/Debug/debugwhite"
+
+    "$CloakPassEnabled"               "1"
+    "$CloakFactor"                    "0.9"
+    "$refractamount"                  "0"
+}

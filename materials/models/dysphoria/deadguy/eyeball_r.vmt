@@ -1,0 +1,15 @@
+"EyeRefract"
+{
+	"$basetexture" "models\dysphoria\deadguy/eyeball"
+	"$corneatexture" "models/dysphoria/deadguy/eyeball_r_n"
+	"$iris" "models\dysphoria\deadguy/eyeball_r"
+	"$halflambert" "1"
+	$AmbientOcclTexture "models\dysphoria\deadguy/eyeball"  
+	$CorneaBumpStrength "4" 
+	$ParallaxStrength "0.25" 
+	$RaytraceSphere 1
+	$EyeballRadius "1.5" 
+	$Envmap "Engine/eye-reflection-cubemap-" 
+	$spheretexkillcombo "1"
+}
+

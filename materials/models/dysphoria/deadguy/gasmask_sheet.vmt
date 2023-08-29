@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\dysphoria\deadguy/gasmask_sheet"
+	"$bumpmap" "models\dysphoria\deadguy/gasmask_sheet_n"
+	
+	"$surfaceprop" "flesh"
+	"$model" 1
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "5"
+	"$phongfresnelranges" "[0.05 0.2 0.6]"
+}

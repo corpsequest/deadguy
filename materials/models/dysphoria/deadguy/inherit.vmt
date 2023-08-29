@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\dysphoria\deadguy/inherit"
+	"$translucent" 1
+	"$halflambert" 1
+	"$model" 1
+	"$nocull" 1
+	
+}

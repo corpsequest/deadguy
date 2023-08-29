@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 				"models\dysphoria\deadguy/inherit"
+	"$bumpmap"					"models\dysphoria\deadguy/gasmask_sheet_n"
+
+	"$translucent"				"1"
+	"$additive"					"1"
+
+	"$phong"					"1"
+	"$phongexponent"			"100"
+	"$phongboost"				"100"
+	"$phongfresnelranges"		"[2 4 6]"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"50"	
+	"$rimlightboost"			"0.2"	
+
+	"$envmap"					"env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"				"[1 1 1]"
+}

@@ -1,0 +1,6 @@
+"Eyes"
+{
+	"$basetexture" "models\dysphoria\deadguy/eyeball_popart"
+	"$iris" "models\dysphoria\deadguy/eyeball_l_popart"
+	"$halflambert" 1
+}

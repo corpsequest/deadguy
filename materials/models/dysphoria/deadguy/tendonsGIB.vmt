@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dysphoria/deadguy/tendons"
+	"$bumpmap" "models/dysphoria/deadguy/tendons_n"
+	"$alphatest" "1"
+	"$nocull" "1"
+	"$PhongDisableHalfLambert" "1"
+	"$ambientocclusion" "0"
+	"$phong" "1"						
+	"$phongboost"	"1" 		
+	"$phongfresnelranges"	"[0.00 0.85 8.85]"					
+	"$PhongAlbedoTint" "1"
+}

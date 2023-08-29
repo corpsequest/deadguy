@@ -1,0 +1,7 @@
+player_manager.AddValidModel( "deadguy", "models/dysphoria/deadguy/corpse_torso.mdl" )
+player_manager.AddValidHands( "deadguy", "models/weapons/hd_hobo_hands.mdl", 0, "00000000" )
+hook.Add("CompositeEntities_AddModels", "deadguy", function(composite)
+    local id_pm = composite:addModel("models/dysphoria/deadguy/corpse_torso.mdl")
+    composite:addModel("models/dysphoria/deadguy/corpse_mouth.mdl", id_pm)
+    composite:addModel("models/dysphoria/deadguy/corpse_head.mdl", id_pm)
+end)
