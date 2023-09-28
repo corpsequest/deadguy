@@ -22,5 +22,9 @@
 
 	"$ambientocclusion"				"0.7"
 
+//	COLOR STUFF!
 
+	"$blendtintbybasealpha" "1"
+ 	"$blendtintcoloroverbase" "0"
+	
 }
